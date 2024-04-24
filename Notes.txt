@@ -1,0 +1,4 @@
+Stuctured query langauage
+
+row: instances,record
+coloumn: field,attribute,variable
